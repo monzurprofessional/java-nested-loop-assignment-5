@@ -25,7 +25,6 @@ public class ev2 {
                     count++;
                 }
             }
-
             System.out.println( n + " has "+ count + " divisors");
             count=0;
             System.out.print("enter a number: ");

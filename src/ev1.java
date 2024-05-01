@@ -4,6 +4,7 @@ value of y if the expression of y is as follows:
 𝑦 = −(1)−(1+2)−(1+2+3)− ....− (1+2+3+ ... +𝑁)
  */
 import java.util.Scanner;
+
 public class ev1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

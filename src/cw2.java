@@ -14,8 +14,8 @@ public class cw2 {
         System.out.print("Enter the value of N: ");
         int N = scanner.nextInt();
 
-        int count = 0; //1 2 3 4 5
-        int num = 2; //3 4 5 6 7 8 9 10 11 12
+        int count = 0;
+        int num = 2; 
 
         while(count<N){
             boolean isPrime = true;

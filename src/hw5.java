@@ -2,9 +2,9 @@
 Draw a flowchart and write a Java program to take a positive integer N as user input and print the
  first N perfect numbers starting from 2. Your code should check all the positive integers starting
   from 2 and determine whether they are prime or not until N prime numbers are found.
-***Sample Input 1:**
+*** Sample Input 1: **
 2
-***Sample Output 1:***
+*** Sample Output 1: ***
 6 28
  */
 import java.util.Scanner;

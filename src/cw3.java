@@ -20,6 +20,7 @@ public class cw3 {
         int end = sc.nextInt();
         int sum=0;
         int n;
+
         for (int i = start; i <=end ; i++) {
             n=i;
             while (n!=0) {
