@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c70c7e-999d-43b8-8a8a-1bd0d68cba04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested-loop-assignment-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ev1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw7.java" afterDir="false" />
+    <list default="true" id="88c70c7e-999d-43b8-8a8a-1bd0d68cba04" name="Changes" comment="all added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +57,38 @@
       <option name="presentableId" value="Default" />
       <updated>1714570457277</updated>
     </task>
+    <task id="LOCAL-০০০০১" summary="all added">
+      <option name="closed" value="true" />
+      <created>1714575976690</created>
+      <option name="number" value="০০০০১" />
+      <option name="presentableId" value="LOCAL-০০০০১" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575976690</updated>
+    </task>
+    <task id="LOCAL-০০০০২" summary="all added">
+      <option name="closed" value="true" />
+      <created>1714576240316</created>
+      <option name="number" value="০০০০২" />
+      <option name="presentableId" value="LOCAL-০০০০২" />
+      <option name="project" value="LOCAL" />
+      <updated>1714576240316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all added" />
+    <option name="LAST_COMMIT_MESSAGE" value="all added" />
   </component>
 </project>
