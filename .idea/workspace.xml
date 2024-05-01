@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88c70c7e-999d-43b8-8a8a-1bd0d68cba04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested-loop-assignment-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ev1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ev2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw7.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2frsJKSPVGKPir18nbM0jimohH1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.cw2.executor": "Run",
+    "Application.cw3.executor": "Run",
+    "Application.ev1.executor": "Run",
+    "Application.ev2.executor": "Run",
+    "Application.ev3.executor": "Run",
+    "Application.hw5.executor": "Run",
+    "Application.hw6.executor": "Run",
+    "Application.hw7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c70c7e-999d-43b8-8a8a-1bd0d68cba04" name="Changes" comment="" />
+      <created>1714570457277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714570457277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
